@@ -2,12 +2,27 @@
 
 1. Pelican
 
+**Browsers**
+
+1. Chrome
+2. Opera
+3. Firefox
+4. AdBlock plugin
+5. ublock origin
+6. Downthem all
+7. 
+
 **Editors**
 
 1. MacVim
 2. Brackets
 
- **Package Manager**
+**Games**
+
+1. Stockfish
+
+
+**Package Manager**
 
 1. Homebrew
 
@@ -26,6 +41,10 @@ Decksetapp
 2. X-code
 3. command-line tools
 4. git
+5. R
+6. R Studio
+7. MRO - Microsoft R
+
 
 **Terminal**
 
