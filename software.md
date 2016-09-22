@@ -1,3 +1,8 @@
+**Apps on cloud**
+
+1. Slack
+2. Trello
+
 **Blog**
 
 1. Pelican
