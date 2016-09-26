@@ -20,6 +20,8 @@
 **Editors**
 
 1. MacVim
+    a. Pathogen
+    b. 
 2. Brackets
 
 **Games**
