@@ -19,9 +19,9 @@
 
 **Editors**
 
-1. MacVim
-    a. Pathogen
-    b. 
+1. MacVim  
+    a. Pathogen  
+    b. Hack font
 2. Brackets
 
 **Games**
