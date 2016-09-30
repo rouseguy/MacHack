@@ -62,4 +62,6 @@ Decksetapp
 5. meslo powerline font
 6. 
 
+**Utilities**
 
+1. imagemagick (for photo processing - install via homebrew)
