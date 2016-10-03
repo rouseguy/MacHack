@@ -35,7 +35,8 @@
 
 **Presentation**
 
-Decksetapp
+1. Decksetapp
+2. recordit - to record screencasts
 
 **Productivity App**
 
@@ -43,7 +44,7 @@ Decksetapp
 
 **Software**
 
-1. Python
+1. Python  
     i. Anaconda
 2. X-code
 3. command-line tools
