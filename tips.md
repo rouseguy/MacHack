@@ -6,4 +6,6 @@
 3. Combine images using imagemagick: [(link)](http://apple.stackexchange.com/a/52882)
 4. Built-in command line audio player - `afplay` [(link)](http://hints.macworld.com/article.php?story=20081002080543392)
 5. Watch network traffic with `nettop` [(link)](http://osxdaily.com/2013/06/07/watch-network-traffic-mac-os-x-nettop/)
+6. Private Eye - Network monitor for Mac [(link)](https://radiosilenceapp.com/private-eye/)
+7. Create terminal short cuts using `alias` [(link)](http://lifehacker.com/270799/create-terminal-shortcuts)
 
