@@ -28,6 +28,11 @@
 
 1. Stockfish
 
+**Network Monitors**
+
+1. Bandwidth+
+2. Private Eye
+
 
 **Package Manager**
 
