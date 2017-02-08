@@ -49,6 +49,7 @@
 
 1. Alfred
 2. Airmail (email client)
+3. Telegram, Whatsapp, Slack apps
 
 **Software**
 
