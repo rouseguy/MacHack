@@ -72,7 +72,7 @@
 3. iterm
 4. solarized color theme
 5. meslo powerline font
-6. 
+6. git from homebrew
 
 **Utilities**
 
