@@ -61,6 +61,7 @@
 6. R Studio
 7. MRO - Microsoft R
 8. PyCharm
+9. gcc from homebrew
 
 **Terminal**
 
