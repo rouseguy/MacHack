@@ -48,6 +48,7 @@
 **Productivity App**
 
 1. Alfred
+2. Airmail (email client)
 
 **Software**
 
