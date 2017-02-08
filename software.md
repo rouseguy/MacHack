@@ -23,7 +23,7 @@
     a. Pathogen  
     b. Hack font
 2. Brackets
-3. Atom
+3. Atom   
     a. Hydrogen
 
 **Games**
@@ -72,6 +72,8 @@
 3. iterm
 4. solarized color theme
 5. meslo powerline font
+6. autosuggestion in oh-my-zsh
+7. syntax highlighting in oh-my-zsh
 6. git from homebrew
 
 **Utilities**
