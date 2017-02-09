@@ -23,8 +23,12 @@
     a. Pathogen  
     b. Hack font
 2. Brackets
-3. Atom   
+3. Atom     
     a. Hydrogen
+4. Visual studio code
+5. pycharm
+
+
 
 **Games**
 
@@ -62,8 +66,10 @@
 5. R
 6. R Studio
 7. MRO - Microsoft R
-8. PyCharm
 9. gcc from homebrew
+10. java
+11. 
+
 
 **Terminal**
 
