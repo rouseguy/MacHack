@@ -75,6 +75,8 @@
 6. autosuggestion in oh-my-zsh
 7. syntax highlighting in oh-my-zsh
 6. git from homebrew
+7. sometimes, color might be messed up in iterm. Select color scheme using: http://iterm2colorschemes.com
+8. (Another tip to fix color scheme is to set contrast level)
 
 **Utilities**
 
