@@ -58,14 +58,15 @@
 **Software**
 
 1. Python  
-    i. Anaconda
-    ii. jupyterthemes
+    i. Anaconda 
+    ii. jupyterthemes  
 2. X-code
 3. command-line tools
 4. git
 5. R
-6. R Studio
+6. R Studio 
 7. MRO - Microsoft R
+8. Setup .Rprofile (from repo)
 9. gcc from homebrew
 10. java
 11. 
