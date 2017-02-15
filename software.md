@@ -58,8 +58,8 @@
 **Software**
 
 1. Python  
-    i. Anaconda 
-    ii. jupyterthemes  
+    i. Anaconda    
+    ii. jupyterthemes    
 2. X-code
 3. command-line tools
 4. git
