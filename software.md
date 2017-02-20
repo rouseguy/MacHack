@@ -88,3 +88,4 @@
 **Utilities**
 
 1. imagemagick (for photo processing - install via homebrew)
+2. battery guru
