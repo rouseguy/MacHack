@@ -69,7 +69,7 @@
 8. Setup .Rprofile (from repo)
 9. gcc from homebrew
 10. java
-11. 
+11. node (from homebrew)
 
 
 **Terminal**
