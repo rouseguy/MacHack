@@ -54,6 +54,8 @@
 1. Alfred
 2. Airmail (email client)
 3. Telegram, Whatsapp, Slack apps
+4. Flux   
+
 
 **Software**
 
