@@ -55,6 +55,7 @@
 2. Airmail (email client)
 3. Telegram, Whatsapp, Slack apps
 4. Flux   
+5. BetterTouchTool   
 
 
 **Software**
