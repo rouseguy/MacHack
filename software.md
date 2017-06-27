@@ -27,6 +27,7 @@
     a. Hydrogen
 4. Visual studio code
 5. pycharm
+6. typora
 
 
 
@@ -73,6 +74,8 @@
 9. gcc from homebrew
 10. java
 11. node (from homebrew)
+12. go (brew install go)
+13. hugo (brew install hugo - for blogs)
 
 
 **Terminal**
