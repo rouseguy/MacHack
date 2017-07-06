@@ -57,6 +57,7 @@
 3. Telegram, Whatsapp, Slack apps
 4. Flux   
 5. BetterTouchTool   
+6. Tomato One (pomodoro timer)    
 
 
 **Software**
