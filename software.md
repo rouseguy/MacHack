@@ -15,7 +15,8 @@
 4. AdBlock plugin
 5. ublock origin
 6. Downthem all
-7. 
+7. Vivaldi Browser
+8. Brave Browser
 
 **Editors**
 
