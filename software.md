@@ -73,13 +73,14 @@
 6. R Studio 
 7. MRO - Microsoft R
 8. Setup .Rprofile (from repo)
-9. gcc from homebrew
+9. gcc from homebrew (`brew install gcc --without-multilib`)   
 10. java
 11. node (from homebrew)
 12. go (brew install go)
 13. hugo (brew install hugo - for blogs)  
 14. simplenote   
-15. gcc (`brew install gcc --without-multilib`)   
+15. docker engine   
+
 
 
 
