@@ -78,7 +78,9 @@
 11. node (from homebrew)
 12. go (brew install go)
 13. hugo (brew install hugo - for blogs)  
-14. simplenote
+14. simplenote   
+15. gcc (`brew install gcc --without-multilib`)   
+
 
 
 **Terminal**
