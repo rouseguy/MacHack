@@ -11,6 +11,6 @@
 8. Install zsh using homebrew[(link)](https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/)  
 9. Install Pathogen [(link)](https://github.com/tpope/vim-pathogen)   
 10. Install vim-sensible using pathogen - from the link given above in install pathogen
-11. Solarized vim [(link)](http://ethanschoonover.com/solarized/vim-colors-solarized)
-
+11. Solarized vim [(link)](http://ethanschoonover.com/solarized/vim-colors-solarized)  
+12. zsh-vi mode[(link)](https://dougblack.io/words/zsh-vi-mode.html)
 
