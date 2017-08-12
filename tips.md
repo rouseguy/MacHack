@@ -12,5 +12,6 @@
 9. Install Pathogen [(link)](https://github.com/tpope/vim-pathogen)   
 10. Install vim-sensible using pathogen - from the link given above in install pathogen
 11. Solarized vim [(link)](http://ethanschoonover.com/solarized/vim-colors-solarized)  
-12. zsh-vi mode[(link)](https://dougblack.io/words/zsh-vi-mode.html)
+12. zsh-vi mode[(link)](https://dougblack.io/words/zsh-vi-mode.html)   
+13. zsh-shell integration [(link)](https://iterm2.com/documentation-shell-integration.html)
 
