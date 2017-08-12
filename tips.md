@@ -10,6 +10,7 @@
 7. Create terminal short cuts using `alias` [(link)](http://lifehacker.com/270799/create-terminal-shortcuts)  
 8. Install zsh using homebrew[(link)](https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/)  
 9. Install Pathogen [(link)](https://github.com/tpope/vim-pathogen)   
+10. Install vim-sensible using pathogen - from the link given above in install pathogen
 
 
 
