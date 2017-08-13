@@ -13,5 +13,6 @@
 10. Install vim-sensible using pathogen - from the link given above in install pathogen
 11. Solarized vim [(link)](http://ethanschoonover.com/solarized/vim-colors-solarized)  
 12. zsh-vi mode[(link)](https://dougblack.io/words/zsh-vi-mode.html)   
-13. zsh-shell integration [(link)](https://iterm2.com/documentation-shell-integration.html)
+13. zsh-shell integration [(link)](https://iterm2.com/documentation-shell-integration.html)  
+14. fixing the R-Fortran issue in Sierra [(link)](http://thecoatlessprofessor.com/programming/rcpp-rcpparmadillo-and-os-x-mavericks-lgfortran-and-lquadmath-error/)
 
