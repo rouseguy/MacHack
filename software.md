@@ -6,7 +6,8 @@
 
 **Blog**
 
-1. Pelican
+1. Pelican  
+2. hugo
 
 **Browsers**
 
