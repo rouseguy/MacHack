@@ -104,3 +104,5 @@
 
 1. imagemagick (for photo processing - install via homebrew)
 2. battery guru
+3. Audacity (audio editing app)  
+4. Forecast (podcast)   
