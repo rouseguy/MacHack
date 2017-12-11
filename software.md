@@ -1,7 +1,8 @@
 **Apps on cloud**
 
 1. Slack
-2. Trello
+2. Trello  
+3. appear.in (video conferencing)  
 
 **Blog**
 
@@ -106,3 +107,4 @@
 2. battery guru
 3. Audacity (audio editing app)  
 4. Forecast (podcast)   
+5. Zoom.us (video conference)
