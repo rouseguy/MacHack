@@ -30,7 +30,8 @@
     a. Hydrogen
 4. Visual studio code
 5. pycharm
-6. typora
+6. typora  
+7. iawrite  
 
 
 
@@ -109,3 +110,8 @@
 3. Audacity (audio editing app)  
 4. Forecast (podcast)   
 5. Zoom.us (video conference)
+
+**Others**  
+
+1. Change default browser for jupyter notebook  
+
