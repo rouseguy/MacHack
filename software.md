@@ -112,6 +112,7 @@
 5. Zoom.us (video conference)
 6. bluejeans (video conference)
 7. Notion.so 
+8. OpenShot (video editor)
 
 **Others**  
 
