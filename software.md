@@ -6,7 +6,7 @@
 
 **Blog**
 
-1. Pelican  
+1. gatsby  
 2. hugo
 
 **Browsers**
@@ -110,6 +110,8 @@
 3. Audacity (audio editing app)  
 4. Forecast (podcast)   
 5. Zoom.us (video conference)
+6. bluejeans (video conference)
+7. Notion.so 
 
 **Others**  
 
