@@ -84,6 +84,7 @@
 13. hugo (brew install hugo - for blogs)  
 14. simplenote   
 15. docker engine   
+16. Inkscape (for editing SVG)
 
 
 
