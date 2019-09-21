@@ -116,6 +116,7 @@
 7. Notion.so 
 8. OpenShot (video editor)
 9. small pdf (https://github.com/pts/pdfsizeopt)
+10. Avast VPN
 
 **Others**  
 
