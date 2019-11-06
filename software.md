@@ -25,13 +25,11 @@
 1. MacVim  
     a. Pathogen  
     b. Hack font
-2. Brackets
-3. Atom     
-    a. Hydrogen
-4. Visual studio code
-5. pycharm
-6. typora  
-7. iawrite  
+2. Visual studio code
+3. pycharm
+4. typora  
+5. iawrite  
+6. Mark Text
 
 
 
