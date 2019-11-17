@@ -30,7 +30,7 @@
 4. typora  
 5. iawrite  
 6. Mark Text
-
+7. Joplin
 
 
 **Games**
