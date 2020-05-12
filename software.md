@@ -1,24 +1,21 @@
-**Apps on cloud**
+**Collaboration Apps**
 
-1. Slack
-2. Trello  
-3. appear.in (video conferencing)  
+1. Zoom 
+2. Slack
+3. Jitsi
+4. Notion
 
 **Blog**
 
-1. gatsby  
-2. hugo
+1. hugo (brew install hugo - for blogs)  
 
 **Browsers**
 
 1. Chrome
-2. Opera
+2. Brave
 3. Firefox
-4. AdBlock plugin
-5. ublock origin
-6. Downthem all
-7. Vivaldi Browser
-8. Brave Browser
+4. ublock origin
+
 
 **Editors**
 
@@ -26,41 +23,34 @@
     a. Pathogen  
     b. Hack font
 2. Visual studio code
-3. pycharm
-4. typora  
-5. iawrite  
-6. Mark Text
-7. Joplin
+3. Mark Text
+7. Simple Note
 
-
-**Games**
-
-1. Stockfish
 
 **Network Monitors**
 
 1. Bandwidth+
 2. Private Eye
+3. NextDNS
 
 
 **Package Manager**
 
 1. Homebrew
 
-**Presentation**
+**Presentation and Recording**
 
 1. Decksetapp
 2. recordit - to record screencasts
+3. OBS
 
 **Productivity App**
 
 1. Alfred
-2. Airmail (email client)
-3. Telegram, Whatsapp, Slack apps
+3. Telegram
 4. Flux   
 5. BetterTouchTool   
 6. Tomato One (pomodoro timer)  
-
 
 
 **Software**
@@ -71,21 +61,13 @@
 2. X-code
 3. command-line tools
 4. git
-5. R
-6. R Studio 
-7. MRO - Microsoft R
-8. Setup .Rprofile (from repo)
 9. gcc from homebrew (`brew install gcc --without-multilib`)   
 10. java
 11. node (from homebrew)
 12. go (brew install go)
-13. hugo (brew install hugo - for blogs)  
-14. simplenote   
 15. docker engine   
 16. Inkscape (for editing SVG)
 17. Spectacle
-
-
 
 
 **Terminal**
@@ -109,9 +91,6 @@
 2. battery guru
 3. Audacity (audio editing app)  
 4. Forecast (podcast)   
-5. Zoom.us (video conference)
-6. bluejeans (video conference)
-7. Notion.so 
 8. OpenShot (video editor)
 9. small pdf (https://github.com/pts/pdfsizeopt)
 10. Avast VPN
