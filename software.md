@@ -68,6 +68,8 @@
 15. docker engine   
 16. Inkscape (for editing SVG)
 17. Spectacle
+18. Blender
+
 
 
 **Terminal**
