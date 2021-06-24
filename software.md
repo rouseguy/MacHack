@@ -1,20 +1,27 @@
 **Collaboration Apps**
 
-1. Zoom 
-2. Slack
-3. Jitsi
-4. Notion
+1. Video Conferencing: Zoom 
+2. Communication: Slack
+3. Documentation: Notion
 
 **Blog**
 
-1. hugo (brew install hugo - for blogs)  
+1. hugo 
+2. Notion
 
 **Browsers**
 
 1. Chrome
 2. Brave
 3. Firefox
-4. ublock origin
+
+
+**Browser Plugins
+1. ublock origin
+2. pinboard
+3. onetab
+4. clearURL
+5. facebook container
 
 
 **Editors**
@@ -23,7 +30,6 @@
     a. Pathogen  
     b. Hack font
 2. Visual studio code
-3. Mark Text
 7. Simple Note
 
 
@@ -43,6 +49,7 @@
 1. Decksetapp
 2. recordit - to record screencasts
 3. OBS
+4. Camo Studio: Use iPhone as the webcam
 
 **Productivity App**
 
